@@ -15,7 +15,7 @@ A file browsing dialog. But hey, it's just a sample. As all Suyeon projects, you
 
 # Screenshot
 <div>
-<img src="https://cloud.suyeon.org/github/color.JPG" alt="Suyeon logo" height="419" width="480">
+<img src="https://cloud.suyeon.org/github/color.JPG" alt="Suyeon logo" height="480" width="419">
 <div>
 
 Credit: Zhao Yihuan
