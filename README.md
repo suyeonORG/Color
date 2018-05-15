@@ -12,3 +12,10 @@ A SaveFileDialog will ask your to choose between three file formats currently av
 
 # TODO
 A file browsing dialog. But hey, it's just a sample. As all Suyeon projects, you need to create your own things based on our project!
+
+# Screenshot
+<div>
+<img src="https://cloud.suyeon.org/github/color.JPG" alt="Suyeon logo" height="250" width="250">
+<div>
+
+Credit: Zhao Yihuan
