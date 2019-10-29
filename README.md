@@ -2,7 +2,7 @@
 [C#] Color Filter application.
 
 <div>
-<img src="https://cloud.suyeon.org/github/COLOR.svg" alt="Suyeon logo" height="250" width="250">
+<img src="http://cloud.suyeon.org/github/COLOR.svg" alt="Suyeon logo" height="250" width="250">
 <div>
 
 # How to use
@@ -15,7 +15,7 @@ A file browsing dialog. But hey, it's just a sample. As all Suyeon projects, you
 
 # Screenshot
 <div>
-<img src="https://cloud.suyeon.org/github/color.JPG" alt="Suyeon logo" height="480" width="419">
+<img src="http://cloud.suyeon.org/github/color.JPG" alt="Suyeon logo" height="480" width="419">
 <div>
 
 Credit: Zhao Yihuan
